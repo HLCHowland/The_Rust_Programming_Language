@@ -1,0 +1,24 @@
+Cargo is the package manager. 
+
+Packages are referred to as crates.
+
+Command to create a new rust project and repo named hello_cargo
+cargo new hello_cargo 
+
+Build the cargo project
+cargo build 
+
+Build and run a project in one step 
+cargo run
+
+make sure you can build the code, but don't actually build it 
+cargo check
+
+manually compile a rust file
+rustc <file>
+
+format your rust files automatically
+rustfmt
+
+
+left off at chapter 2's start
